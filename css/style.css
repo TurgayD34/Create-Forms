@@ -1,0 +1,83 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #9DBEBB;
+    position: absolute;
+    top: 10%;
+    left: 17%;
+}
+.form{
+    width: 954px;
+    height: 594px;
+    background-color: #BE0909;
+    position: relative;
+}
+.form-rightside{
+    width: 345px;
+    height: 594px;
+    background-color: #FFB039;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+#application-form{
+    position: absolute;
+    top: 65px;
+    left: 65px;
+}
+.textbox h3{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FEFFFF;
+}
+.name-box input, .message-box textarea{
+    width: 400px;
+    border: none;
+    outline: none;
+    background: none;
+    border-bottom: 1px solid #9DBEBB;
+}
+.email-box input, .message-regarding-box textarea{
+    width: 160px;
+    border: none;
+    outline: none;
+    background: none;
+    border-bottom: 1px solid #9DBEBB;
+}
+.form-img{
+    width: 663px;
+    height: 603px;
+    position: relative;
+    top: 52px;
+    left: 342px;
+}
+#btn{
+    width: 202px;
+    height: 48px;
+    border: 1px solid black;
+    border-radius: 40px;
+    background-color: #468189;
+    position: relative;
+    top: 56px;
+    left: 146px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    text-align: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+
+
+
