@@ -42,6 +42,14 @@ body{
     outline: none;
     background: none;
     border-bottom: 1px solid #9DBEBB;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    letter-spacing: 0.3em;
+    color: #FDFFFF;
 }
 .email-box input, .message-regarding-box textarea{
     width: 160px;
@@ -49,6 +57,14 @@ body{
     outline: none;
     background: none;
     border-bottom: 1px solid #9DBEBB;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    letter-spacing: 0.3em;
+    color: #FDFFFF;
 }
 .form-img{
     width: 663px;
